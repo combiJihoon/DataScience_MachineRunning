@@ -1,2 +1,2 @@
 # DataScience_MachineRunning
-Practice of data-science and machine-running
+Practice for data-science and machine-running
